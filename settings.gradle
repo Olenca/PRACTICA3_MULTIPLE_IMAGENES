@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "PRACTICA3_MULTIPLES_Y_IMAGENES"
